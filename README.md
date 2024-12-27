@@ -14,4 +14,4 @@ talking about ;)
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="45" height="45"/>&nbsp;
 </div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiB0y&layout=compact&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsakishii&layout=compact&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
