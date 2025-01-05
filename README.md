@@ -1,4 +1,4 @@
-# Hello World! :wave: Welcome to my github page!
+# :wave: Welcome to my github page!
 
 I run a GNU/Linux OS on all of my devices and I spend most of my time in :ox: Emacs,
 which of course is the best text editor ever created. I know that it probably
